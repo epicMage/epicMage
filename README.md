@@ -23,6 +23,14 @@
 * wtf
 * eza
 * cbonsai
+* btop
+* lua
+
+## Rice
+* JankyBorders
+* Yabai
+* Sketchybar ( menu bar )
+* Spacebar ( other bottom bar )
 
 ## Vim Plugins
 * vim-plug
@@ -42,11 +50,11 @@
 * SponsorBlock
 * Dictionariez
 * uBlacklist
+* FastForward
+* ClearURLs
 
 # Below are the perfunctory extensions I have : 
 
-* ClearURLS
-* Fast Forward
 * Indie Wiki Buddy
 * Better Youtube Captions
 * Return Youtube Dislike
@@ -60,32 +68,40 @@
 * Firefox ( ofc i do )
 * Vivaldi ( RSS )
 * Tor ( Well, uh... )
+* Zen ( decent )
+* Chromium ( Using Chrome )
+* Orion Browser ( imagine paying for a search engine )
+
+# I use Eric Murphy's custom UserChrome configuration for Librewolf.
+
 # The rest are superficial.
 
 ## Apps
 
 # Apps I commonly use are :
 * Alacritty ( Terminal Emulator )
+* Iterm2 ( formerly, used for cava )
 * LibreWolf ( Browsing )
 * Signal ( Messaging )
 * Raycast ( Application Searcher )
 * ColorSlurp ( Color Picker )
 * Notion Calendar ( Notion Calendar )
 * krita ( Art )
-* Terraria
-* Lunar Client
-* Orbot
-# The rest are trivial. I strongly recommend to use krita as a paint tool as it is open source and easy to use.
+* Lunar Client/Minecraft ( Minecraft )
+* Orbot ( VPN )
+
+# The rest are trivial. I strongly recommend to use krita as a paint tool as it is open source, customizable, and easy to use.
+
+# Search Engine : SearXNG ( searx.be )
 
 ## Websites I use
-* inv.nadeko.net ( Youtube )
-* youtube.com ( Of course I do! )
+* inv.nadeko.net ( Youtube frontend )
+* www.youtube.com ( Of course I do! )
 * mail.proton.me ( Mail )
-* redlib.perennialte.ch ( Reddit )
+* redlib.perennialte.ch ( Reddit frontend )
 * wikipedia.org ( ...Duh! )
 * deepl.com ( Translation )
 * nitter.poast.org ( Twitter )
-* blank.page ( rarely )
 * alternativeto.net ( i take this for granted )
 * monkeytype.com ( Typing )
   
@@ -93,13 +109,13 @@
 
 ## Specs and other uses
 # Welp, finally, We're into the territory of specs. Make sure not to fall asleep.
-* I am currently running macOS 15.0.1. Despite its flaws, it still remains a great operating system, especially with them improving their chips. One of my main flaws is that Apple produces propietary software.
-* yabai is my auto window tiling manager. It's extremely efficient and customizable.
-* I use an extremely simplified version of Sketchybar. Even thought it lacks a lot of the default menu bars functionality, it gets the job done in looking better than the default. I wouldn't recommend Bartender ( or any of the apps in the SetApp bundle ) because it's propietary and it's costly.
-* I bought my 2021 model 14 inch M1 Pro chip Macbook Pro in late 2022, when I formerly used an extremely trashy Lenovo laptop, completely ditching Windows.
-* I use Homebrew to install my apps.
-* I use zsh 5.9.
-* I use a Samsung A13. I will later switch to a Google Pixel to install GrapheneOS on it.
+* I am currently running macOS 15.0.1, despite its flaws. macOS still remains a great operating system, especially with them improving their chips. { TANGENT : One of my main flaws is that Apple produces propietary software, and how it's bloated as hell. }
+* yabai is my auto window tiling manager. It just works.
+* I use an extremely simplified version of Sketchybar. Even thought it lacks a lot of the default menu bars functionality, it gets the job done in looking better than the default. { TANGENT : I wouldn't recommend Bartender ( or any of the apps in the SetApp bundle ) because it's propietary and it's subscription based. }
+* I bought my 2021 model 14 inch M1 Pro chip Macbook Pro in extremely late 2022, when I formerly used an extremely trashy Lenovo laptop, completely ditching Windows.
+* I use Homebrew to install terminal apps and other applications.
+* I use zsh. tmux is too confusing.
+* Google Pixel 8a running GrapheneOS, along with a cheap samsung A13.
 # Glad that's over...
 
 
@@ -116,16 +132,19 @@
 * Physique ( kinda )
 
 ### I am learning...
-* Using a terminal
+* How to use a terminal
 * HTML
+* Lua
+* Digital privacy
 
 ### Collabs
 nil
 
 ### Who are you?
 # I am a person learning about computer science who goes by the online digital alias "Mage."
+
 ## How do I contact you?
-# Github.
+# No.
 
 ### Fun fact
 Google is an asshole!
