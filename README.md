@@ -76,7 +76,7 @@
 
 ### The rest are superficial.
 
-# Apps
+## Apps
 
 ### Apps I commonly use are :
 * Alacritty ( Terminal Emulator )
@@ -105,10 +105,10 @@
 * alternativeto.net ( i take this for granted )
 * monkeytype.com ( Typing )
   
-# The rest are... One dimensional?
+## The rest are... One dimensional?
 
-# Specs and other uses
-## Welp, finally, We're into the territory of specs. Make sure not to fall asleep.
+## Specs and other uses
+### Welp, finally, We're into the territory of specs. Make sure not to fall asleep.
 * I am currently running macOS 15.0.1, despite its flaws. macOS still remains a great operating system, especially with them improving their chips. { TANGENT : One of my main flaws is that Apple produces propietary software, and how it's bloated as hell. }
 * yabai is my auto window tiling manager. It just works.
 * I use an extremely simplified version of Sketchybar. Even thought it lacks a lot of the default menu bars functionality, it gets the job done in looking better than the default. { TANGENT : I wouldn't recommend Bartender ( or any of the apps in the SetApp bundle ) because it's propietary and it's subscription based. }
@@ -116,13 +116,13 @@
 * I use Homebrew to install terminal apps and other applications.
 * I use zsh. tmux is too confusing.
 * Google Pixel 8a running GrapheneOS, along with a cheap samsung A13.
-# Glad that's over...
+## Glad that's over...
 
 
 
 
 
-# Topics I'm interested in
+## Topics I'm interested in
 * Using a terminal
 * Linux
 * Opsec
@@ -131,20 +131,20 @@
 * Art
 * Physique ( kinda )
 
-# I am learning...
+## I am learning...
 * How to use a terminal
 * HTML
 * Lua
 * Digital privacy
 
-### Collabs
+## Collabs
 nil
 
-# Who are you?
-## I am a person learning about computer science who goes by the online digital alias "Mage."
+## Who are you?
+I am a person learning about computer science who goes by the online digital alias "Mage."
 
-# How do I contact you?
-## No.
+## How do I contact you?
+### No.
 
-# Fun fact
+## Fun fact
 Google is an asshole!
