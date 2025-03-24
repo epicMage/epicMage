@@ -1,12 +1,7 @@
-███▄ ▄███▓ ▄▄▄        ▄████ ▓█████ 
-▓██▒▀█▀ ██▒▒████▄     ██▒ ▀█▒▓█   ▀ 
-▓██    ▓██░▒██  ▀█▄  ▒██░▄▄▄░▒███   
-▒██    ▒██ ░██▄▄▄▄██ ░▓█  ██▓▒▓█  ▄ 
-▒██▒   ░██▒ ▓█   ▓██▒░▒▓███▀▒░▒████▒
-░ ▒░   ░  ░ ▒▒   ▓▒█░ ░▒   ▒ ░░ ▒░ ░
-░  ░      ░  ▒   ▒▒ ░  ░   ░  ░ ░  ░
-░      ░     ░   ▒   ░ ░   ░    ░   
-       ░         ░  ░      ░    ░  ░
+<figure>
+<img style="display: block; margin: auto;" src="1742859326+grim.png"/>
+<h6>a cool ascii thing i made</h6>
+</figure>
                                     
 ## Who?
 I'm a rando on Github. I code in my freetime (in lua haha) and sometimes help the F.O.S.S world.
