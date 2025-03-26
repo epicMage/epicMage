@@ -12,14 +12,15 @@ Nothing yet.
 ## Programming Languages
 * CSS
 * Lua & Luau (Don't worry, I'm not a toxic dev ;)
+* A little bit of Python
+* Some shell script
 ### Soon to learn or learing
-* Python
 * Perl
 * Php?
 ## Projects
-* Nothing
+* None (so far)
 ### Collabs
-* Nothing
+* None
 ## Help Wanted
 * Nothing
 ## Special Thanks
