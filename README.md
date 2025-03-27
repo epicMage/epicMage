@@ -1,4 +1,4 @@
-<figure>
+3<figure>
 <img style="display: block; margin: auto;" src="1742859326+grim.png"/>
 <h6>a cool ascii thing i made</h6>
 </figure>
@@ -25,3 +25,5 @@ Nothing yet.
 * Nothing
 ## Special Thanks
 (tba)
+## Wall of Shame
+* i hate git.
