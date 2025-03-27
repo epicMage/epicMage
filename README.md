@@ -1,4 +1,4 @@
-3<figure>
+<figure>
 <img style="display: block; margin: auto;" src="1742859326+grim.png"/>
 <h6>a cool ascii thing i made</h6>
 </figure>
