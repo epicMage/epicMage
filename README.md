@@ -4,7 +4,7 @@
 </figure>
                                     
 ## Who?
-I'm a rando on Github. I code in my freetime (in lua haha) and sometimes help the F.O.S.S world.
+I'm a random noob on Github. I code in my freetime and *sometimes* help the F.O.S.S world.
 
 ## Projects
 Nothing yet.
@@ -17,6 +17,7 @@ Nothing yet.
 ### Soon to learn or learing
 * Perl
 * Php?
+* Kotlin. Infinetly better than Java.
 ## Projects
 * None (so far)
 ### Collabs
