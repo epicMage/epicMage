@@ -29,3 +29,5 @@ Nothing yet.
 ## Fun Facts
 * i hate git.
 * i use arch (and macos) btw
+---
+<a href="mailto:redmage01@protonmail.com">@redmage</a>
