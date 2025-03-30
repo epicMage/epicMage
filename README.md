@@ -26,5 +26,6 @@ Nothing yet.
 * Nothing
 ## Special Thanks
 (tba)
-## Wall of Shame
+## Fun Facts
 * i hate git.
+* i use arch (and macos) btw
