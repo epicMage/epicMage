@@ -9,18 +9,24 @@
 ```
 **/home/mage**       
 
-┌───────── /bin/zsh ────────┐            ┌───────── projects ────────┐            
+┌───────── /bin/zsh ────────┐            
 
- &nbsp;&nbsp;~ ❯ whoami&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nothing... Yet.
+ &nbsp;&nbsp;~ ❯ whoami
   
-  &nbsp;I'm a random noob on Github. I&nbsp;&nbsp;     └─────────────────────────┘
+  &nbsp;I'm a random noob on Github. I&nbsp;&nbsp;
   
  &nbsp; code in my freetime and
 
   &nbsp;*sometimes* help the FOSS world.
   
 
-└─────────────────────────┘
+└────────────────────────┘
+
+┌───────── projects ────────┐
+
+Nothing... Yet.
+
+└────────────────────────┘
 
 ┌──────── languages ───────┐
 <details>
