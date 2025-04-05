@@ -7,7 +7,44 @@
  /   |  |  -\    core : Intel i5-8265U (8) @ 3.900GHz
 /_-''    ''-_\   • • • • • • • •
 ```
-**/home/mage**       
+**/home/mage**
+
+Welcome to my profile. I'm a random noob on github who codes in his freetime and contributes to projects I like.
+
+<details>
+
+<summary>I know...</summary>
+
+* CSS ☑
+
+* Lua & Luau (Don't worry, I'm not a toxic dev ;) ☑
+
+* A little bit of Python ☑
+
+* Shell script ☑
+</details>
+
+<details>
+
+<summary>I want to know...</summary>
+
+* Perl ☒
+
+* Php? ☒
+
+* Kotlin ☒
+
+* Regex ☒
+
+* JavaScript/Typescript ☒
+
+* C/C++ ☒
+
+* Ruby ☒
+</details>
+
+<details>
+<summary>My old profile.</summary>
 
 ┌───────── /bin/zsh ────────┐            
 
@@ -76,7 +113,7 @@ i hate git.
 i use arch (and macos) btw
 
 └─────────────────────────┘
-
+</details>
 ====================================
 
 <a href="mailto:redmage01@protonmail.com">@redmage</a>
