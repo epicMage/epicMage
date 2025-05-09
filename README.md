@@ -15,13 +15,15 @@ Welcome to my profile. I'm a random noob on github who codes in his freetime and
 
 <summary>I know...</summary>
 
-* CSS ☑
-
 * Lua & Luau (Don't worry, I'm not a toxic dev ;) ☑
 
 * A little bit of Python ☑
 
 * Shell script ☑
+
+* Some Java ☑
+
+* I'm **learning** Rust ☑
 </details>
 
 <details>
@@ -30,9 +32,9 @@ Welcome to my profile. I'm a random noob on github who codes in his freetime and
 
 * Perl ☒
 
-* Php? ☒
+* Php (Learning) ☒
 
-* Kotlin ☒
+* SQL
 
 * Regex ☒
 
