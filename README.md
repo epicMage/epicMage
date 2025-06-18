@@ -1,15 +1,15 @@
 ```
       /\         neofetch
      /  \        os : Arch Linux x86_64
-    /\   \       kernel : 6.13.8-arch1-1
+    /\   \       kernel : 6.15.2-arch1-1
    /      \      uptime : 1 day, 4 hours, 44 mins
   /   ,,   \     package managers : 1437 (pacman), 35 (flatpak)
  /   |  |  -\    core : Intel i5-8265U (8) @ 3.900GHz
 /_-''    ''-_\   • • • • • • • •
 ```
-**/home/mage**
+**/home/epicMage**
 
-Welcome to my profile. I'm a random noob on github who codes in his freetime and contributes to projects I like.
+Welcome to my profile. I'm a random noob on Github who codes in his freetime and contributes to projects I like.
 
 <details>
 
@@ -17,104 +17,30 @@ Welcome to my profile. I'm a random noob on github who codes in his freetime and
 
 * Lua & Luau (Don't worry, I'm not a toxic dev ;) ☑
 
-* A little bit of Python ☑
+* A little bit of Python (which is bloat) ☑
+
+* A little bit of Java also (which is **also** bloat) ☑
 
 * Shell script ☑
 
-* Some Java ☑
-
-* I'm **learning** Rust ☑
+* Php ☑
 </details>
 
 <details>
 
 <summary>I want to know...</summary>
 
+* I don't care that much about Rust anymore. ☒
+
 * Perl ☒
 
-* Php (Learning) ☒
-
-* SQL
+* SQL ☒
 
 * Regex ☒
 
 * JavaScript/Typescript ☒
 
 * C/C++ ☒
-
-* Ruby ☒
-</details>
-
-<details>
-<summary>My old profile.</summary>
-
-┌───────── /bin/zsh ────────┐            
-
- &nbsp;&nbsp;~ ❯ whoami
-  
-  &nbsp;I'm a random noob on Github. I&nbsp;&nbsp;
-  
- &nbsp; code in my freetime and
-
-  &nbsp;*sometimes* help the FOSS world.
-  
-
-└────────────────────────┘
-
-┌───────── projects ────────┐
-
-Nothing... Yet.
-
-└────────────────────────┘
-
-┌──────── languages ───────┐
-<details>
-
-<summary>RUN</summary>
-
-<details>
-
-<summary>I know...</summary>
-
-* CSS ☑
-
-* Lua & Luau (Don't worry,
-
-&nbsp;&nbsp;&nbsp;&nbsp;I'm not a toxic dev ;) ☑
-
-* A little bit of Python ☑
-
-* Shell script ☑
-</details>
-
-<details>
-
-<summary>I want to know...</summary>
-
-* Perl ☒
-
-* Php? ☒
-
-* Kotlin ☒
-
-* Regex ☒
-
-* JavaScript/Typescript ☒
-
-* C/C++ ☒
-
-* Ruby ☒
-</details>
-</details>
-└────────────────────────┘
-
-┌───────── Fun Facts ────────┐
-
-i hate git.
-
-i use arch (and macos) btw
-
-└─────────────────────────┘
 </details>
 ====================================
 
