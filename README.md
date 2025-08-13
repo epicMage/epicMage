@@ -1,25 +1,23 @@
 ```
-      /\         neofetch
-     /  \        os : Arch Linux x86_64
-    /\   \       kernel : 6.15.2-arch1-1
-   /      \      uptime : 1 day, 4 hours, 44 mins
-  /   ,,   \     package managers : 1437 (pacman), 35 (flatpak)
- /   |  |  -\    core : Intel i5-8265U (8) @ 3.900GHz
-/_-''    ''-_\   • • • • • • • •
+      /\         mage@artixbox
+     /  \        os     Artix Linux
+    /`'.,\       host   20N20032US ThinkPad T490
+   /     ',      kernel 6.15.8-artix1-1
+  /      ,`\     uptime 12h 24m
+ /   ,.'`.  \    pkgs   624
+/.,'`     `'.\   memory 2948M / 15643M
 ```
 **/home/epicMage**
 
-Welcome to my profile. I'm a random noob on Github who codes in his freetime and contributes to projects I like.
+Welcome to my profile. I'm a random noob on Github who codes in his freetime and contributes to projects I like (or hate).
 
 <details>
 
 <summary>I know...</summary>
 
-* Lua & Luau (Don't worry, I'm not a toxic dev ;) ☑
+* Lua & Luau ☑
 
 * A little bit of Python (which is bloat) ☑
-
-* A little bit of Java also (which is **also** bloat) ☑
 
 * Shell script ☑
 
@@ -29,8 +27,6 @@ Welcome to my profile. I'm a random noob on Github who codes in his freetime and
 <details>
 
 <summary>I want to know...</summary>
-
-* I don't care that much about Rust anymore. ☒
 
 * Perl ☒
 
@@ -42,4 +38,3 @@ Welcome to my profile. I'm a random noob on Github who codes in his freetime and
 
 * C/C++ ☒
 </details>
-====================================
