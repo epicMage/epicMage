@@ -43,5 +43,3 @@ Welcome to my profile. I'm a random noob on Github who codes in his freetime and
 * C/C++ ☒
 </details>
 ====================================
-
-<a href="mailto:redmage01@protonmail.com">@redmage</a>
